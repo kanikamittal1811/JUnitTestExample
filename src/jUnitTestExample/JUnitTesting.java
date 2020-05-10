@@ -12,8 +12,7 @@ public class JUnitTesting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//System.out.println(addStrings("Hello"," World"));
-		//System.out.println(addNumbers(2019,1));
+		
 	}
 
 }
