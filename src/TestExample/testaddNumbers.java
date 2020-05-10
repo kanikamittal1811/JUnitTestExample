@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Test;
-class testaddNumber {
+class testaddNumbers {
 
 	@Test
 	void test() {
